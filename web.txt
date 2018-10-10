@@ -8,3 +8,6 @@ https://github.com/digoal/blog/blob/master/201611/20161101_01.md
 
 
 https://wiki.postgresql.org/wiki/Main_Page
+
+ora2pg:
+https://github.com/darold/ora2pg/releases
