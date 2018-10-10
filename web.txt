@@ -4,6 +4,7 @@ https://github.com/francs
 https://github.com/digoal?spm=a2c4e.11153940.blogcont59251.102.48ad7fc37XMl4u
 
 https://github.com/digoal/blog/blob/master/201608/20160818_02.md
+https://github.com/digoal/blog/blob/master/201611/20161101_01.md
 
 
 https://wiki.postgresql.org/wiki/Main_Page
